@@ -9,7 +9,7 @@ You will be able to find this version more user friendly with links actually wor
 
 Below you will find the link to the website and the public repository
 
-1. https://cougarchan.github.io/01-HTML-CSS-Git-Code-Refacto/
+1. https://cougarchan.github.io/Horiseon-SEO-Solutions-Refactor/
 2. https://github.com/CougarChan/Horiseon-SEO-Solutions-Refactor
 
 
