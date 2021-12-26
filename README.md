@@ -7,5 +7,7 @@ Changes that have been made
 
 Below you will find the link to the website and the public repository
 
-  https://cougarchan.github.io/01-HTML-CSS-Git-Code-Refacto/
-  https://github.com/CougarChan/01-HTML-CSS-Git-Code-Refacto
+  
+	https://cougarchan.github.io/01-HTML-CSS-Git-Code-Refacto/
+  
+	https://github.com/CougarChan/01-HTML-CSS-Git-Code-Refacto
