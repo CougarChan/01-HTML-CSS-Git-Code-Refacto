@@ -14,3 +14,4 @@ Below you will find the link to the website and the public repository
 
 
 This is a screenshot of the current build
+![Capture](https://user-images.githubusercontent.com/93087137/147419605-5c700439-5702-46fd-8f0e-4acb481a6abe.PNG)
